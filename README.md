@@ -1,6 +1,6 @@
 ## Instrucciones
 
-- git clone git@github.com:agustfricke/crud-drf-viewset.git
+- git clone https://github.com/agustfricke/crud-drf-viewset.git
 - O te lo puedesdeascargar como zip si no tienes git instalado
 
 - cd crud-drf-viewset
